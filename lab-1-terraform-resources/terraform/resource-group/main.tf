@@ -16,3 +16,8 @@ provider "azurerm" {
   features {}
 
 }
+provider "azurerm" {
+  # Configuration options
+  features {}
+
+}
